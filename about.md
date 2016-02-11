@@ -1,5 +1,5 @@
 ---
-layout: no-about-page
+layout: page
 title: About
 permalink: /about/
 image: /images/pebblest.jpg
@@ -13,3 +13,8 @@ Pencils](http://www.robotsandpencils.com).
 
 Besides software development, I love travelling, eating new cuisine, and play 
 LW for my ice hockey beer league team.
+
+### Credits
+
+- Jekyll Theme: [Sato Kazuma](https://github.com/satokazuma)
+- Theme Design: [HTML5up](http://html5up.net/)
