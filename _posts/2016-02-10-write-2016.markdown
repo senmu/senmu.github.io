@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "#write2016"
+date:   2016-02-10 23:52:07
+categories: blog 
+tags: thoughts write2016
+image: /images/posts/2016-02-10-write2016.jpg
+---
+Inspired by [Julie Zhuo](http://twitter.com/joulee)'s post on [writing and
+wanting others to write more](https://medium.com/the-year-of-the-looking-glass/write-in-2016-938f569b535e#.epf5p9xgf), 
+I'm making another attempt to get back into writing again.
+
+Rather than try to migrate old posts over and continue maintaining all that
+baggage, I'm starting over with a clean slate (especially considering that the
+technical posts I wrote years ago are no longer relevant today).
+
+I used to be better at writing on a more regular basis, then for the last 5 or
+so years, I just stopped. Perhaps I thought that I had nothing to share. Then I 
+read this Dostoyevksy quote from Julie's post:
+
+> "But how could you live and have no story to tell?"
+
+It's a quote that made me realize that everyone has something to share. On a
+daily basis, I'm learning plenty of new things in software development, cooking,
+and one of my new hobbies: hand lettering – and I think these are all 
+interesting things that are worth sharing. 
+
