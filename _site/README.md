@@ -1,2 +1,0 @@
-# senmu.github.io
-Blog
