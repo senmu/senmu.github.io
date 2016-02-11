@@ -14,7 +14,7 @@ Rather than try to migrate old posts over and continue maintaining all that
 baggage, I'm starting over with a clean slate (especially considering that the
 technical posts I wrote years ago are no longer relevant today).
 
-I used to be better at writing on a more regular basis, then for the last 5 or
+I used to be better at writing on a regular basis, but then for the last 5 or
 so years, I just stopped. Perhaps I thought that I had nothing to share. Then I 
 read this Dostoyevksy quote from Julie's post:
 
